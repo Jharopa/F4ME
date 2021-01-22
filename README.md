@@ -15,7 +15,10 @@ This Fallout 4 Wabbajack modlist is a lightweight modding setup consititing of E
 * This list can then be installed by running the Latest version of Wabbajack and selecting "Install From Disk" then selecting F4ME.wabbajack file for "Target Modlist" before selecting you're prefered "Installation Location" and "Download Location" and pressing the run button to the right hand side. 
    * (Note. If you have multiple drives, one being a smaller SSD/M.2 drive and the other being a slower HDD, I would recommend using the SSD for you're "Installation Location" and you're HDD for you're "Download Location" as the download folders can take up considerably more space then the install folder and offers no ingame preformance increase, this is not the case for my list however it is for multiple other lists as well as list you may make yourself.)
 
-*
+* Once the modlist has been installed navigate to the MO2 folder and copy all the files inside the Game Folder Files folder and copy all files into you're Fallout 4 game folder found at C:\Steam\steamapps\common\Fallout 4.
+
+* After you have copied the Game Folder Files you can navigate to MO2 Folder\tools\BethINI Standalone Version (MO2 MUST BE CLOSED BEFORE USE) and run BethINI.exe in which you can select you're monitors resolution and tailor a number of other game option to you're prefrences.
+   * (Note. As is indicated by the BethINI folder name you MUST NOT have MO2 open while using BethINI)
 
 ## Mods in list
 
