@@ -5,7 +5,7 @@
 ## Modlist Description
 
 This Fallout 4 Wabbajack modlist is a lightweight modding setup consititing of Essential Tools, Utilities, Resources, Bugfixes and QOL mods needed to create a stable and easily moddable game which can be used as a starting point for someones personal setup or a Wabbajack modlist. This modlist was inspired by [SME(FT)
-](https://github.com/EzioTheDeadPoet/SME-FT-) and was created from the above mentioned mods known to me as well as mods discovered from other modlist avalible through Wabbajack ([Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus), [F4EE](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition), [Boston Creampie](https://www.wabbajack.org/#/modlists/info?machineURL=boston_cream_pie)).
+](https://github.com/EzioTheDeadPoet/SME-FT-) and was created from the above mentioned mods known to me as well as mods discovered from other modlist available through Wabbajack ([Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus), [F4EE](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition), [Boston Creampie](https://www.wabbajack.org/#/modlists/info?machineURL=boston_cream_pie)).
 
 ## Mods in list
 
