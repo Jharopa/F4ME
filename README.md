@@ -9,7 +9,7 @@ This Fallout 4 Wabbajack modlist is a lightweight modding setup consititing of E
 
 ## Installation
 
-* Firstly if you do not have a fresh Fallout 4 installation, you must ensure a clean installation of Fallout 4 by navigating to and deleting the ***C:\Steam\steamapps\common\Fallout 4*** folder then navigating to and deleting the ***C:\Users\YOUREUSERNAME\Documents\My Games\Fallout 4*** folder then reinstalling Fallout 4 on Steam. Once downloaded and installed launch you're Fallout 4 through Steam to create the Fallout 4 INI files. 
+* Firstly if you do not have a fresh Fallout 4 installation, you must ensure a clean installation of Fallout 4 by navigating to and deleting the ***C:\Steam\steamapps\common\Fallout 4*** folder then navigating to and deleting the 'C:\Users\YOUREUSERNAME\Documents\My Games\Fallout 4' folder then reinstalling Fallout 4 on Steam. Once downloaded and installed launch you're Fallout 4 through Steam to create the Fallout 4 INI files. 
    * (Note. If you do not have you're steam installation outside you're ProgramFiles folder I would strongly recommend moving it out to the root of you're C: drive as this will save headaches caused by permissions and installing other Wabbajack modlists)
 
 * This list can then be installed by running the Latest version of Wabbajack and selecting "Install From Disk" then selecting F4ME.wabbajack file for "Target Modlist" before selecting you're prefered "Installation Location" and "Download Location" and pressing the run button to the right hand side. 
