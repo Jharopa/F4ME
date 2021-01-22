@@ -1,6 +1,6 @@
 # F4ME - Fallout 4 Modding Essentials
 
-![F4ME Logo](/images/F4ME.png)
+![F4ME Logo](/images/f4me.png)
 
 ## Mods in list
 
