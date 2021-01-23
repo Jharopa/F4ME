@@ -20,7 +20,7 @@ This Fallout 4 Wabbajack modlist is a lightweight modding setup consititing of E
 * After you have copied the Game Folder Files you can navigate to `MO2 Folder\tools\BethINI Standalone Version (MO2 MUST BE CLOSED BEFORE USE)` and run BethINI.exe in which you can select you're monitors resolution and tailor a number of other game option to you're prefrences.
    * (Note. As is indicated by the BethINI folder name you MUST NOT have MO2 open while using BethINI)
    
-* Now that you have all the setup done you can run the ModOrganizer.exe and throught that launch the game using F4SE, Happy modding :).
+* Now that you have all the setup done you can run the ModOrganizer.exe and through that launch the game using F4SE, Happy modding :).
 
 ## Mods in list
 
@@ -71,7 +71,7 @@ Bugfixes
 * [Valentine Jaw Sync](https://www.nexusmods.com/fallout4/mods/42985)
 * [Cryolator Cryo-Cell Fix](https://www.nexusmods.com/fallout4/mods/15985)
 * [Glowing Glass Fix](https://www.nexusmods.com/fallout4/mods/43059)
-* [Fixed Flickering Puddles](https://www.nexusmods.com/fallout4/mods/46787)
+* [Fixed Flickering Puddles](https://www.nexusmods.com/fallout4/mods/46787) (Extra Info 1.)
 * [River Fix](https://www.nexusmods.com/fallout4/mods/36762)
 * [Power Armor Map Fix](https://www.nexusmods.com/fallout4/mods/8854)
 * [Companion Stealth Distance Fix](https://www.nexusmods.com/fallout4/mods/15823)
@@ -103,3 +103,15 @@ Optional
 * [PerkPointsPerLevel](https://www.nexusmods.com/fallout4/mods/3938)
 * [Faster Terminal Displays](https://www.nexusmods.com/fallout4/mods/937)
 * [LooksMenu](https://www.nexusmods.com/fallout4/mods/12631)
+
+## Extra Info
+
+1. If you plan on using [Enhanced Blood Textures](https://www.nexusmods.com/fallout4/mods/212/), Fixed Flikering Puddles mod includes a patch allowing them to work together and can be use by simply reinstalling the the mod and selecting the EBT compatibility options in the FOMOD.
+
+## Credits
+
+* You the community members using this list <3.
+* EzioTheDeadPoet for the inspiration with SME(FT).
+* The creators of modlists used as reference LaughingHyena, AUGSpeed and particulary Lively for also answering my questions on the WJ Discord.
+* The WJ Team for creating this great tool.
+* All the mod creators for their fantastic mods that make FO4 playable.
