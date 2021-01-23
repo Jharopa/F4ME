@@ -19,6 +19,8 @@ This Fallout 4 Wabbajack modlist is a lightweight modding setup consititing of E
 
 * After you have copied the Game Folder Files you can navigate to `MO2 Folder\tools\BethINI Standalone Version (MO2 MUST BE CLOSED BEFORE USE)` and run BethINI.exe in which you can select you're monitors resolution and tailor a number of other game option to you're prefrences.
    * (Note. As is indicated by the BethINI folder name you MUST NOT have MO2 open while using BethINI)
+   
+* Now that you have all the setup done you can run the ModOrganizer.exe and throught that launch the game using F4SE, Happy modding :).
 
 ## Mods in list
 
