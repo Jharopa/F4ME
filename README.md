@@ -1,4 +1,4 @@
-# F4ME - Fallout 4 Modding Essentials
+# F4ME - Fallout 4 Modding Essentials (Unsupported)
 
 ![F4ME Logo](/images/f4me.png)
 
